@@ -1,6 +1,6 @@
 {
     "Name": "HasenAI",	
-    "File": "script.corrupt",
+    "File": "main.lua",
     "Version": 0.02,
     "Type": "Champion AIO",
     "Champions": ["Tristana"]
