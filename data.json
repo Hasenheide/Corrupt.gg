@@ -1,7 +1,7 @@
 {
     "Name": "HasenAI",	
     "File": "main.lua",
-    "Version": 0.01,
+    "Version": 0.02,
     "Type": "Champion AIO",
     "Champions": ["Tristana"]
   }
