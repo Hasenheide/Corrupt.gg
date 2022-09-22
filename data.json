@@ -1,7 +1,7 @@
 {
   "Name": "Hasen AI",	
   "File": "script.corrupt",
-  "Version": 0.03,
+  "Version": 0.01,
   "Type": "Champion AIO",
   "Champions": ["Tristana"]
 }
